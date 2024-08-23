@@ -1,0 +1,1469 @@
+data_venda,produto,marca,modelo,preco,quantidade
+2023-01-01,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,7
+2023-01-01,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,6
+2023-01-01,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,2
+2023-01-01,Controle Remoto LG,LG,AKB75095307,R$ 79.99,9
+2023-01-01,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,1
+2023-01-01,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,2
+2023-01-02,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,4
+2023-01-02,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,10
+2023-01-02,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,7
+2023-01-03,Controle Remoto LG,LG,AKB75095307,R$ 79.99,4
+2023-01-03,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,9
+2023-01-03,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,7
+2023-01-03,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,5
+2023-01-04,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,2
+2023-01-04,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,1
+2023-01-04,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,5
+2023-01-04,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,2
+2023-01-04,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,8
+2023-01-04,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,2
+2023-01-05,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,6
+2023-01-05,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,2
+2023-01-06,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,7
+2023-01-06,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,8
+2023-01-06,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,2
+2023-01-06,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,6
+2023-01-06,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,10
+2023-01-07,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,2
+2023-01-07,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,9
+2023-01-07,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,5
+2023-01-07,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,2
+2023-01-08,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,6
+2023-01-08,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,5
+2023-01-08,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,5
+2023-01-08,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,4
+2023-01-09,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,3
+2023-01-09,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,4
+2023-01-10,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,4
+2023-01-10,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,8
+2023-01-10,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,4
+2023-01-10,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,8
+2023-01-10,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,10
+2023-01-11,Controle Remoto LG,LG,AKB75095307,R$ 79.99,6
+2023-01-11,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,8
+2023-01-11,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,5
+2023-01-12,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,5
+2023-01-12,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,5
+2023-01-12,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,2
+2023-01-13,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,9
+2023-01-13,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,1
+2023-01-13,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,6
+2023-01-13,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,2
+2023-01-13,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,7
+2023-01-13,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,9
+2023-01-14,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,9
+2023-01-14,Controle Remoto LG,LG,AKB75095307,R$ 79.99,10
+2023-01-14,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,7
+2023-01-14,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,10
+2023-01-15,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,6
+2023-01-15,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,1
+2023-01-16,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,10
+2023-01-16,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,9
+2023-01-16,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,9
+2023-01-16,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,3
+2023-01-16,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,8
+2023-01-17,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,3
+2023-01-18,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,10
+2023-01-18,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,2
+2023-01-18,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,8
+2023-01-18,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,10
+2023-01-18,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,5
+2023-01-19,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,2
+2023-01-19,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,3
+2023-01-19,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,8
+2023-01-19,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,5
+2023-01-19,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,2
+2023-01-19,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,1
+2023-01-20,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,4
+2023-01-20,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,3
+2023-01-20,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,1
+2023-01-20,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,4
+2023-01-20,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,6
+2023-01-20,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,10
+2023-01-21,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,10
+2023-01-21,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,8
+2023-01-21,Controle Remoto LG,LG,AKB75095307,R$ 79.99,9
+2023-01-21,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,6
+2023-01-21,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,6
+2023-01-22,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,10
+2023-01-22,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,6
+2023-01-23,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,1
+2023-01-23,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,4
+2023-01-23,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,1
+2023-01-23,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,3
+2023-01-23,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,3
+2023-01-23,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,1
+2023-01-24,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,6
+2023-01-24,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,10
+2023-01-24,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,10
+2023-01-25,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,5
+2023-01-25,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,10
+2023-01-26,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,8
+2023-01-26,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,4
+2023-01-26,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,6
+2023-01-26,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,9
+2023-01-26,Controle Remoto LG,LG,AKB75095307,R$ 79.99,3
+2023-01-27,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,10
+2023-01-27,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,3
+2023-01-27,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,7
+2023-01-27,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,4
+2023-01-27,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,9
+2023-01-28,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,4
+2023-01-28,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,9
+2023-01-28,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,2
+2023-01-29,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,1
+2023-06-01,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,10
+2023-06-02,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,3
+2023-06-03,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,5
+2023-06-04,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,4
+2023-06-05,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,5
+2023-06-05,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,1
+2023-06-06,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,10
+2023-06-07,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,9
+2023-06-07,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,10
+2023-06-07,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,7
+2023-06-07,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,3
+2023-06-07,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,7
+2023-06-08,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,10
+2023-06-08,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,5
+2023-06-09,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,8
+2023-06-09,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,2
+2023-06-09,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,6
+2023-06-09,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,8
+2023-06-09,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,5
+2023-06-09,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,10
+2023-06-10,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,10
+2023-06-11,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,8
+2023-06-11,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,9
+2023-06-12,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,9
+2023-06-12,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,9
+2023-06-13,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,7
+2023-06-13,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,5
+2023-06-13,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,2
+2023-06-13,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,4
+2023-06-13,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,8
+2023-06-14,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,3
+2023-06-14,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,4
+2023-06-14,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,6
+2023-06-14,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,3
+2023-06-14,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,6
+2023-06-15,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,2
+2023-06-15,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,7
+2023-06-16,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,9
+2023-06-16,Controle Remoto LG,LG,AKB75095307,R$ 79.99,4
+2023-06-17,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,10
+2023-06-17,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,6
+2023-06-18,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,5
+2023-06-18,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,4
+2023-06-18,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,1
+2023-06-18,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,9
+2023-06-18,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,1
+2023-06-18,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,8
+2023-06-19,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,9
+2023-06-19,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,6
+2023-06-19,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,2
+2023-06-19,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,5
+2023-06-19,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,2
+2023-06-19,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,9
+2023-06-20,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,7
+2023-06-20,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,1
+2023-06-21,Controle Remoto LG,LG,AKB75095307,R$ 79.99,1
+2023-06-21,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,10
+2023-06-21,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,3
+2023-06-21,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,9
+2023-06-21,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,9
+2023-06-21,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,9
+2023-06-22,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,9
+2023-06-22,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,4
+2023-06-22,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,8
+2023-06-22,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,4
+2023-06-23,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,6
+2023-06-24,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,4
+2023-06-24,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,7
+2023-06-24,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,2
+2023-06-24,Controle Remoto LG,LG,AKB75095307,R$ 79.99,9
+2023-06-24,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,7
+2023-06-25,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,4
+2023-06-25,Controle Remoto LG,LG,AKB75095307,R$ 79.99,6
+2023-06-25,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,9
+2023-06-25,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,5
+2023-06-25,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,1
+2023-06-26,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,3
+2023-06-26,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,10
+2023-06-26,Controle Remoto LG,LG,AKB75095307,R$ 79.99,1
+2023-06-27,Controle Remoto LG,LG,AKB75095307,R$ 79.99,9
+2023-06-27,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,6
+2023-06-27,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,1
+2023-06-27,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,8
+2023-06-28,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,7
+2023-06-28,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,10
+2023-06-28,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,5
+2023-06-28,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,9
+2023-06-28,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,1
+2023-06-29,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,2
+2023-06-30,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,8
+2023-06-30,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,8
+2023-06-30,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,2
+2023-06-30,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,8
+2023-06-30,Controle Remoto LG,LG,AKB75095307,R$ 79.99,7
+2023-06-30,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,5
+2023-07-01,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,3
+2023-07-01,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,5
+2023-07-01,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,10
+2023-07-01,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,4
+2023-07-01,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,9
+2023-07-02,Controle Remoto LG,LG,AKB75095307,R$ 79.99,5
+2023-07-03,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,8
+2023-07-03,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,4
+2023-07-03,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,8
+2023-07-03,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,3
+2023-07-04,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,6
+2023-07-04,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,8
+2023-07-05,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,6
+2023-07-05,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,1
+2023-07-05,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,2
+2023-07-05,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,10
+2023-07-05,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,3
+2023-07-06,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,1
+2023-07-07,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,8
+2023-07-07,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,2
+2023-07-07,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,2
+2023-07-07,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,6
+2023-07-07,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,7
+2023-07-07,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,9
+2023-07-08,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,7
+2023-07-08,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,6
+2023-07-08,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,9
+2023-07-08,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,3
+2023-07-08,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,1
+2023-07-08,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,3
+2023-07-09,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,4
+2023-07-09,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,2
+2023-07-09,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,5
+2023-07-09,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,9
+2023-07-09,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,9
+2023-07-10,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,4
+2023-07-11,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,8
+2023-07-11,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,3
+2023-07-11,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,5
+2023-07-11,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,1
+2023-07-12,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,10
+2023-07-12,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,6
+2023-07-12,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,2
+2023-07-12,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,1
+2023-07-12,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,10
+2023-07-12,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,8
+2023-07-13,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,9
+2023-07-14,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,7
+2023-07-14,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,6
+2023-07-14,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,5
+2023-07-15,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,7
+2023-07-16,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,8
+2023-07-16,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,10
+2023-07-17,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,9
+2023-07-17,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,2
+2023-07-17,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,3
+2023-07-17,Controle Remoto LG,LG,AKB75095307,R$ 79.99,4
+2023-07-18,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,5
+2023-07-18,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,9
+2023-07-18,Controle Remoto LG,LG,AKB75095307,R$ 79.99,7
+2023-07-18,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,8
+2023-07-19,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,9
+2023-07-19,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,4
+2023-07-19,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,2
+2023-07-19,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,1
+2023-07-19,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,9
+2023-07-19,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,6
+2023-07-20,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,2
+2023-07-20,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,9
+2023-07-21,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,7
+2023-07-21,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,1
+2023-07-21,Controle Remoto LG,LG,AKB75095307,R$ 79.99,2
+2023-07-21,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,10
+2023-07-21,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,9
+2023-07-21,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,10
+2023-07-22,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,10
+2023-07-22,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,5
+2023-07-22,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,7
+2023-07-22,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,1
+2023-07-22,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,6
+2023-07-23,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,7
+2023-07-23,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,8
+2023-07-23,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,5
+2023-07-23,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,9
+2023-07-23,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,5
+2023-07-24,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,8
+2023-07-24,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,8
+2023-07-24,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,7
+2023-07-24,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,1
+2023-07-24,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,4
+2023-07-24,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,4
+2023-07-25,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,1
+2023-07-26,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,7
+2023-07-26,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,10
+2023-07-26,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,1
+2023-07-26,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,1
+2023-07-26,Controle Remoto LG,LG,AKB75095307,R$ 79.99,1
+2023-07-26,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,10
+2023-07-27,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,2
+2023-07-27,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,5
+2023-07-27,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,3
+2023-07-27,Controle Remoto LG,LG,AKB75095307,R$ 79.99,9
+2023-07-27,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,5
+2023-07-28,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,9
+2023-07-28,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,8
+2023-07-28,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,2
+2023-07-28,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,8
+2023-07-28,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,4
+2023-07-29,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,8
+2023-07-29,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,6
+2023-07-29,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,1
+2023-07-30,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,7
+2023-07-30,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,2
+2023-07-30,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,3
+2023-07-30,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,9
+2023-07-30,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,6
+2023-07-30,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,2
+2023-07-31,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,9
+2023-07-31,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,1
+2023-07-31,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,8
+2023-07-31,Controle Remoto LG,LG,AKB75095307,R$ 79.99,4
+2023-07-31,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,10
+2023-07-31,Controle Remoto LG,LG,AKB75095307,R$ 79.99,9
+2023-08-01,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,7
+2023-08-01,Controle Remoto LG,LG,AKB75095307,R$ 79.99,9
+2023-08-01,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,3
+2023-08-01,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,9
+2023-08-01,Controle Remoto LG,LG,AKB75095307,R$ 79.99,10
+2023-08-02,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,9
+2023-08-02,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,2
+2023-08-02,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,6
+2023-08-02,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,4
+2023-08-02,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,3
+2023-08-02,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,9
+2023-08-03,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,4
+2023-08-03,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,2
+2023-08-03,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,6
+2023-08-03,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,5
+2023-08-04,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,8
+2023-08-04,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,10
+2023-08-04,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,5
+2023-08-05,Controle Remoto LG,LG,AKB75095307,R$ 79.99,8
+2023-08-05,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,4
+2023-08-05,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,10
+2023-08-05,Controle Remoto LG,LG,AKB75095307,R$ 79.99,3
+2023-08-05,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,10
+2023-08-05,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,2
+2023-08-06,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,2
+2023-08-06,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,4
+2023-08-07,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,10
+2023-08-07,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,7
+2023-08-07,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,1
+2023-08-07,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,6
+2023-08-07,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,2
+2023-08-07,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,7
+2023-08-08,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,4
+2023-08-08,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,9
+2023-08-08,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,2
+2023-08-08,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,7
+2023-08-08,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,9
+2023-08-08,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,1
+2023-08-09,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,7
+2023-08-09,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,2
+2023-08-09,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,2
+2023-08-09,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,7
+2023-08-09,Controle Remoto LG,LG,AKB75095307,R$ 79.99,5
+2023-08-10,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,8
+2023-08-10,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,4
+2023-08-10,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,4
+2023-08-10,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,7
+2023-08-10,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,6
+2023-08-11,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,7
+2023-08-11,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,10
+2023-08-11,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,6
+2023-08-12,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,4
+2023-08-12,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,1
+2023-08-13,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,3
+2023-08-13,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,10
+2023-08-13,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,8
+2023-08-13,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,9
+2023-08-13,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,5
+2023-08-13,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,9
+2023-08-14,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,4
+2023-08-14,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,3
+2023-08-14,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,4
+2023-08-15,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,4
+2023-08-15,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,1
+2023-08-15,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,10
+2023-08-15,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,9
+2023-08-16,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,3
+2023-08-16,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,10
+2023-08-16,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,3
+2023-08-16,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,5
+2023-08-17,Controle Remoto LG,LG,AKB75095307,R$ 79.99,5
+2023-08-17,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,9
+2023-08-17,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,6
+2023-08-17,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,3
+2023-08-17,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,10
+2023-08-18,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,9
+2023-08-18,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,1
+2023-08-18,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,1
+2023-08-19,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,6
+2023-08-19,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,9
+2023-08-19,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,4
+2023-08-19,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,7
+2023-08-19,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,2
+2023-08-19,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,5
+2023-08-20,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,10
+2023-08-20,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,7
+2023-08-21,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,5
+2023-08-21,Controle Remoto LG,LG,AKB75095307,R$ 79.99,5
+2023-08-21,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,9
+2023-08-22,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,3
+2023-08-22,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,6
+2023-08-23,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,9
+2023-08-23,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,9
+2023-08-23,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,8
+2023-08-24,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,8
+2023-08-24,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,9
+2023-08-24,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,6
+2023-08-24,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,2
+2023-08-24,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,4
+2023-08-24,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,7
+2023-08-25,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,10
+2023-08-25,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,6
+2023-08-26,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,8
+2023-08-26,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,8
+2023-08-26,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,2
+2023-08-26,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,8
+2023-08-26,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,1
+2023-08-26,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,3
+2023-08-27,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,2
+2023-08-27,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,3
+2023-08-27,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,9
+2023-08-27,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,3
+2023-08-28,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,2
+2023-08-28,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,7
+2023-08-29,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,8
+2023-08-29,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,9
+2023-08-29,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,4
+2023-08-29,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,7
+2023-08-29,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,10
+2023-08-30,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,9
+2023-08-30,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,7
+2023-08-30,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,9
+2023-08-30,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,10
+2023-08-30,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,5
+2023-08-30,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,3
+2023-08-31,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,9
+2023-09-01,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,7
+2023-09-01,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,4
+2023-09-01,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,7
+2023-09-01,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,7
+2023-09-01,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,8
+2023-09-02,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,1
+2023-09-03,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,8
+2023-09-03,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,8
+2023-09-03,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,4
+2023-09-04,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,8
+2023-09-04,Controle Remoto LG,LG,AKB75095307,R$ 79.99,5
+2023-09-04,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,6
+2023-09-04,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,3
+2023-09-05,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,9
+2023-09-05,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,3
+2023-09-05,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,6
+2023-09-06,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,3
+2023-09-06,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,1
+2023-09-06,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,8
+2023-09-06,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,9
+2023-09-07,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,7
+2023-09-08,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,4
+2023-09-08,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,7
+2023-09-08,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,6
+2023-09-08,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,8
+2023-09-09,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,7
+2023-09-09,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,6
+2023-09-09,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,4
+2023-09-10,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,10
+2023-09-10,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,10
+2023-09-10,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,2
+2023-09-11,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,10
+2023-09-12,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,3
+2023-09-12,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,6
+2023-09-12,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,4
+2023-09-13,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,3
+2023-09-13,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,9
+2023-09-13,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,5
+2023-09-13,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,3
+2023-09-13,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,2
+2023-09-14,Controle Remoto LG,LG,AKB75095307,R$ 79.99,6
+2023-09-14,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,6
+2023-09-14,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,9
+2023-09-14,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,4
+2023-09-14,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,3
+2023-09-15,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,8
+2023-09-15,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,3
+2023-09-15,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,9
+2023-09-16,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,1
+2023-09-16,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,6
+2023-09-16,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,8
+2023-09-16,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,6
+2023-09-16,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,4
+2023-09-16,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,9
+2023-09-17,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,5
+2023-09-17,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,3
+2023-09-17,Controle Remoto LG,LG,AKB75095307,R$ 79.99,7
+2023-09-17,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,1
+2023-09-17,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,2
+2023-09-18,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,8
+2023-09-18,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,7
+2023-09-18,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,8
+2023-09-18,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,2
+2023-09-18,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,6
+2023-09-18,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,7
+2023-09-19,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,7
+2023-09-19,Controle Remoto LG,LG,AKB75095307,R$ 79.99,5
+2023-09-19,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,8
+2023-09-19,Controle Remoto LG,LG,AKB75095307,R$ 79.99,8
+2023-09-20,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,10
+2023-09-20,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,1
+2023-09-21,Controle Remoto LG,LG,AKB75095307,R$ 79.99,1
+2023-09-21,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,3
+2023-09-21,Controle Remoto LG,LG,AKB75095307,R$ 79.99,6
+2023-09-22,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,10
+2023-09-22,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,2
+2023-09-23,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,9
+2023-09-23,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,9
+2023-09-24,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,8
+2023-09-24,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,10
+2023-09-25,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,6
+2023-09-25,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,8
+2023-09-26,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,3
+2023-09-26,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,4
+2023-09-27,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,3
+2023-09-27,Controle Remoto LG,LG,AKB75095307,R$ 79.99,9
+2023-09-27,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,10
+2023-09-27,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,6
+2023-09-27,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,7
+2023-09-27,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,8
+2023-09-28,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,9
+2023-09-28,Controle Remoto LG,LG,AKB75095307,R$ 79.99,8
+2023-09-28,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,8
+2023-09-29,Controle Remoto LG,LG,AKB75095307,R$ 79.99,6
+2023-09-29,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,8
+2023-09-30,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,5
+2023-09-30,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,10
+2023-09-30,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,7
+2023-09-30,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,2
+2023-10-01,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,5
+2023-10-01,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,10
+2023-10-01,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,5
+2023-10-01,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,10
+2023-10-01,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,3
+2023-10-02,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,1
+2023-10-02,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,1
+2023-10-02,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,4
+2023-10-02,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,3
+2023-10-02,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,5
+2023-10-03,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,6
+2023-10-04,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,9
+2023-10-04,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,1
+2023-10-04,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,5
+2023-10-04,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,3
+2023-10-04,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,3
+2023-10-05,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,5
+2023-10-05,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,1
+2023-10-05,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,3
+2023-10-05,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,2
+2023-10-06,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,9
+2023-10-07,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,10
+2023-10-07,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,7
+2023-10-08,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,1
+2023-10-08,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,8
+2023-10-09,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,8
+2023-10-09,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,6
+2023-10-10,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,5
+2023-10-10,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,10
+2023-10-11,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,7
+2023-10-11,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,2
+2023-10-11,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,10
+2023-10-12,Controle Remoto LG,LG,AKB75095307,R$ 79.99,8
+2023-10-12,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,4
+2023-10-13,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,4
+2023-10-13,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,2
+2023-10-13,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,6
+2023-10-14,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,4
+2023-10-14,Controle Remoto LG,LG,AKB75095307,R$ 79.99,6
+2023-10-14,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,6
+2023-10-14,Controle Remoto LG,LG,AKB75095307,R$ 79.99,9
+2023-10-14,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,10
+2023-10-15,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,1
+2023-10-15,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,3
+2023-10-15,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,4
+2023-10-15,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,3
+2023-10-15,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,7
+2023-10-16,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,9
+2023-10-16,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,2
+2023-10-16,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,2
+2023-10-16,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,5
+2023-10-16,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,3
+2023-10-16,Controle Remoto LG,LG,AKB75095307,R$ 79.99,9
+2023-10-17,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,3
+2023-10-17,Controle Remoto LG,LG,AKB75095307,R$ 79.99,4
+2023-10-17,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,8
+2023-10-17,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,4
+2023-10-17,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,4
+2023-10-17,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,10
+2023-10-18,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,9
+2023-10-18,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,1
+2023-10-19,Controle Remoto LG,LG,AKB75095307,R$ 79.99,1
+2023-10-19,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,8
+2023-10-19,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,8
+2023-10-19,Controle Remoto LG,LG,AKB75095307,R$ 79.99,7
+2023-10-20,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,3
+2023-10-20,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,9
+2023-10-20,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,10
+2023-10-21,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,5
+2023-10-21,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,4
+2023-10-21,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,10
+2023-10-21,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,3
+2023-10-21,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,2
+2023-10-22,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,7
+2023-10-22,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,3
+2023-10-23,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,5
+2023-10-24,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,1
+2023-10-25,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,1
+2023-10-25,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,3
+2023-10-25,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,10
+2023-10-26,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,2
+2023-10-26,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,10
+2023-10-26,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,8
+2023-10-26,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,8
+2023-10-26,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,3
+2023-10-27,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,5
+2023-10-27,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,3
+2023-10-27,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,6
+2023-10-27,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,8
+2023-10-27,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,5
+2023-10-28,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,8
+2023-10-28,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,10
+2023-10-28,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,2
+2023-10-28,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,2
+2023-10-28,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,1
+2023-10-29,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,2
+2023-10-29,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,7
+2023-10-30,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,9
+2023-10-30,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,10
+2023-10-30,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,4
+2023-10-30,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,9
+2023-10-30,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,4
+2023-10-31,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,6
+2023-10-31,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,3
+2023-11-01,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,7
+2023-11-01,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,7
+2023-11-02,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,4
+2023-11-02,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,10
+2023-11-03,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,1
+2023-11-03,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,10
+2023-11-03,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,5
+2023-11-03,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,6
+2023-11-03,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,8
+2023-11-03,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,10
+2023-11-04,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,10
+2023-11-04,Controle Remoto LG,LG,AKB75095307,R$ 79.99,2
+2023-11-04,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,3
+2023-11-04,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,4
+2023-11-04,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,10
+2023-11-04,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,2
+2023-11-05,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,6
+2023-11-05,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,5
+2023-11-05,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,10
+2023-11-05,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,8
+2023-11-06,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,10
+2023-11-06,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,5
+2023-11-06,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,8
+2023-11-07,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,3
+2023-11-07,Controle Remoto LG,LG,AKB75095307,R$ 79.99,9
+2023-11-08,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,7
+2023-11-08,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,6
+2023-11-09,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,10
+2023-11-09,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,3
+2023-11-09,Controle Remoto LG,LG,AKB75095307,R$ 79.99,1
+2023-11-09,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,2
+2023-11-10,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,10
+2023-11-10,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,2
+2023-11-10,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,1
+2023-11-11,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,9
+2023-11-12,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,8
+2023-11-12,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,9
+2023-11-13,Controle Remoto LG,LG,AKB75095307,R$ 79.99,6
+2023-11-13,Controle Remoto LG,LG,AKB75095307,R$ 79.99,7
+2023-11-13,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,7
+2023-11-14,Controle Remoto LG,LG,AKB75095307,R$ 79.99,5
+2023-11-15,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,2
+2023-11-15,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,6
+2023-11-15,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,3
+2023-11-15,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,5
+2023-11-16,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,8
+2023-11-17,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,1
+2023-11-17,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,1
+2023-11-17,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,4
+2023-11-17,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,3
+2023-11-17,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,1
+2023-11-18,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,8
+2023-11-18,Controle Remoto LG,LG,AKB75095307,R$ 79.99,9
+2023-11-18,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,4
+2023-11-18,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,5
+2023-11-18,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,3
+2023-11-18,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,2
+2023-11-19,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,8
+2023-11-20,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,1
+2023-11-20,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,1
+2023-11-21,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,6
+2023-11-21,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,1
+2023-11-21,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,7
+2023-11-22,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,10
+2023-11-22,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,7
+2023-11-22,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,1
+2023-11-22,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,5
+2023-11-22,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,4
+2023-11-22,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,9
+2023-11-23,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,3
+2023-11-23,Controle Remoto LG,LG,AKB75095307,R$ 79.99,4
+2023-11-23,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,6
+2023-11-23,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,6
+2023-11-23,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,1
+2023-11-24,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,4
+2023-11-24,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,1
+2023-11-24,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,1
+2023-11-24,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,5
+2023-11-24,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,5
+2023-11-24,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,6
+2023-11-25,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,7
+2023-11-25,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,3
+2023-11-25,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,5
+2023-11-25,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,9
+2023-11-26,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,6
+2023-11-27,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,5
+2023-11-28,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,2
+2023-11-28,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,5
+2023-11-28,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,6
+2023-11-29,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,1
+2023-11-29,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,10
+2023-11-29,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,6
+2023-11-29,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,5
+2023-11-29,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,5
+2023-11-30,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,2
+2023-11-30,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,10
+2023-11-30,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,10
+2023-12-01,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,10
+2023-12-01,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,5
+2023-12-01,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,1
+2023-12-01,Controle Remoto LG,LG,AKB75095307,R$ 79.99,5
+2023-12-02,Controle Remoto LG,LG,AKB75095307,R$ 79.99,7
+2023-12-02,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,6
+2023-12-02,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,7
+2023-12-02,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,7
+2023-12-02,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,4
+2023-12-02,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,8
+2023-12-03,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,5
+2023-12-03,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,1
+2023-12-03,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,10
+2023-12-03,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,7
+2023-12-04,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,6
+2023-12-05,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,6
+2023-12-05,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,6
+2023-12-06,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,2
+2023-12-07,Controle Remoto LG,LG,AKB75095307,R$ 79.99,7
+2023-12-07,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,8
+2023-12-08,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,2
+2023-12-09,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,6
+2023-12-10,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,3
+2023-12-10,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,5
+2023-12-10,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,5
+2023-12-10,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,6
+2023-12-10,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,3
+2023-12-10,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,4
+2023-12-11,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,4
+2023-12-11,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,10
+2023-12-11,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,8
+2023-12-11,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,10
+2023-12-11,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,2
+2023-12-11,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,9
+2023-12-12,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,9
+2023-12-12,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,9
+2023-12-12,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,5
+2023-12-13,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,8
+2023-12-14,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,6
+2023-12-15,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,3
+2023-12-16,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,2
+2023-12-16,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,9
+2023-12-16,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,7
+2023-12-16,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,10
+2023-12-16,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,7
+2023-12-16,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,4
+2023-12-17,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,8
+2023-12-17,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,5
+2023-12-18,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,10
+2023-12-19,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,8
+2023-12-19,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,9
+2023-12-19,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,9
+2023-12-19,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,2
+2023-12-20,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,4
+2023-12-20,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,1
+2023-12-20,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,10
+2023-12-20,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,4
+2023-12-21,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,3
+2023-12-21,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,7
+2023-12-21,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,6
+2023-12-22,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,4
+2023-12-22,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,10
+2023-12-22,Controle Remoto LG,LG,AKB75095307,R$ 79.99,9
+2023-12-22,Controle Remoto LG,LG,AKB75095307,R$ 79.99,5
+2023-12-22,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,5
+2023-12-23,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,2
+2023-12-23,Controle Remoto LG,LG,AKB75095307,R$ 79.99,2
+2023-12-23,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,5
+2023-12-23,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,2
+2023-12-23,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,6
+2023-12-24,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,3
+2023-12-24,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,1
+2023-12-24,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,4
+2023-12-24,Controle Remoto LG,LG,AKB75095307,R$ 79.99,3
+2023-12-25,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,1
+2023-12-25,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,10
+2023-12-25,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,6
+2023-12-25,Controle Remoto LG,LG,AKB75095307,R$ 79.99,9
+2023-12-26,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,7
+2023-12-26,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,5
+2023-12-26,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,2
+2023-12-26,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,10
+2023-12-26,Controle Remoto LG,LG,AKB75095307,R$ 79.99,7
+2023-12-27,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,10
+2023-12-27,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,7
+2023-12-27,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,9
+2023-12-28,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,2
+2023-12-28,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,8
+2023-12-28,Controle Remoto LG,LG,AKB75095307,R$ 79.99,7
+2023-12-28,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,4
+2023-12-28,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,6
+2023-12-29,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,4
+2023-12-30,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,7
+2023-12-31,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,2
+2024-01-01,Controle Remoto LG,LG,AKB75095307,R$ 79.99,7
+2024-01-01,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,3
+2024-01-01,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,9
+2024-01-01,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,2
+2024-01-01,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,6
+2024-01-02,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,2
+2024-01-02,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,6
+2024-01-03,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,8
+2024-01-03,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,9
+2024-01-04,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,4
+2024-01-05,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,1
+2024-01-05,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,3
+2024-01-05,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,8
+2024-01-05,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,4
+2024-01-05,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,9
+2024-01-05,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,6
+2024-01-06,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,1
+2024-01-06,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,10
+2024-01-06,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,7
+2024-01-06,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,4
+2024-01-07,Controle Remoto LG,LG,AKB75095307,R$ 79.99,9
+2024-01-08,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,4
+2024-01-08,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,4
+2024-01-09,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,3
+2024-01-09,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,5
+2024-01-09,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,9
+2024-01-09,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,3
+2024-01-09,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,1
+2024-01-09,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,6
+2024-01-10,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,5
+2024-01-11,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,5
+2024-01-12,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,8
+2024-01-13,Controle Remoto LG,LG,AKB75095307,R$ 79.99,3
+2024-01-13,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,3
+2024-01-14,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,8
+2024-01-14,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,4
+2024-01-14,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,2
+2024-01-14,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,8
+2024-01-14,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,1
+2024-01-14,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,10
+2024-01-15,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,5
+2024-01-16,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,10
+2024-01-16,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,3
+2024-01-16,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,1
+2024-01-16,Controle Remoto LG,LG,AKB75095307,R$ 79.99,2
+2024-01-17,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,2
+2024-01-17,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,8
+2024-01-17,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,8
+2024-01-18,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,5
+2024-01-18,Controle Remoto LG,LG,AKB75095307,R$ 79.99,3
+2024-01-18,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,1
+2024-01-18,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,1
+2024-01-19,Controle Remoto LG,LG,AKB75095307,R$ 79.99,5
+2024-01-20,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,6
+2024-01-20,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,6
+2024-01-21,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,8
+2024-01-21,Controle Remoto LG,LG,AKB75095307,R$ 79.99,2
+2024-01-21,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,4
+2024-01-21,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,5
+2024-01-21,Controle Remoto LG,LG,AKB75095307,R$ 79.99,6
+2024-01-22,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,10
+2024-01-22,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,10
+2024-01-23,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,6
+2024-01-23,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,1
+2024-01-23,Controle Remoto LG,LG,AKB75095307,R$ 79.99,5
+2024-01-23,Controle Remoto LG,LG,AKB75095307,R$ 79.99,8
+2024-01-23,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,6
+2024-01-24,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,7
+2024-01-24,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,10
+2024-01-25,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,5
+2024-01-25,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,1
+2024-01-26,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,6
+2024-01-26,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,6
+2024-01-27,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,8
+2024-01-28,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,9
+2024-01-29,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,4
+2024-01-29,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,8
+2024-01-29,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,10
+2024-01-30,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,10
+2024-01-30,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,3
+2024-01-31,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,5
+2024-02-01,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,4
+2024-02-01,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,7
+2024-02-02,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,5
+2024-02-02,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,10
+2024-02-02,Controle Remoto LG,LG,AKB75095307,R$ 79.99,7
+2024-02-02,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,10
+2024-02-03,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,6
+2024-02-03,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,1
+2024-02-03,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,9
+2024-02-03,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,2
+2024-02-03,Controle Remoto LG,LG,AKB75095307,R$ 79.99,4
+2024-02-03,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,1
+2024-02-04,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,10
+2024-02-04,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,9
+2024-02-04,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,6
+2024-02-05,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,6
+2024-02-05,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,10
+2024-02-05,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,6
+2024-02-06,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,6
+2024-02-06,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,3
+2024-02-06,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,4
+2024-02-06,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,7
+2024-02-07,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,10
+2024-02-07,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,3
+2024-02-07,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,9
+2024-02-07,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,9
+2024-02-07,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,8
+2024-02-08,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,8
+2024-02-08,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,10
+2024-02-08,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,2
+2024-02-08,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,2
+2024-02-08,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,4
+2024-02-08,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,2
+2024-02-09,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,2
+2024-02-09,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,3
+2024-02-10,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,6
+2024-02-11,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,8
+2024-02-11,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,5
+2024-02-11,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,9
+2024-02-12,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,8
+2024-02-12,Controle Remoto LG,LG,AKB75095307,R$ 79.99,1
+2024-02-12,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,2
+2024-02-12,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,8
+2024-02-13,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,7
+2024-02-13,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,10
+2024-02-13,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,8
+2024-02-14,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,4
+2024-02-15,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,3
+2024-02-15,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,7
+2024-02-15,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,1
+2024-02-15,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,2
+2024-02-15,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,6
+2024-02-16,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,1
+2024-02-16,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,2
+2024-02-16,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,6
+2024-02-17,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,4
+2024-02-17,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,4
+2024-02-17,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,5
+2024-02-17,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,5
+2024-02-17,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,10
+2024-02-18,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,8
+2024-02-18,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,4
+2024-02-18,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,5
+2024-02-18,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,10
+2024-02-18,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,6
+2024-02-19,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,6
+2024-02-19,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,6
+2024-02-20,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,3
+2024-02-20,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,4
+2024-02-20,Controle Remoto LG,LG,AKB75095307,R$ 79.99,1
+2024-02-20,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,2
+2024-02-20,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,3
+2024-02-21,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,9
+2024-02-21,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,5
+2024-02-21,Controle Remoto LG,LG,AKB75095307,R$ 79.99,5
+2024-02-22,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,6
+2024-02-22,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,10
+2024-02-22,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,1
+2024-02-22,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,10
+2024-02-22,Controle Remoto LG,LG,AKB75095307,R$ 79.99,5
+2024-02-23,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,7
+2024-02-23,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,8
+2024-02-23,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,10
+2024-02-24,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,1
+2024-02-24,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,3
+2024-02-24,Controle Remoto LG,LG,AKB75095307,R$ 79.99,3
+2024-02-24,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,7
+2024-02-25,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,5
+2024-02-25,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,7
+2024-02-26,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,2
+2024-02-26,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,5
+2024-02-26,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,4
+2024-02-27,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,10
+2024-02-27,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,6
+2024-02-27,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,4
+2024-02-27,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,8
+2024-02-28,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,3
+2024-02-28,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,3
+2024-02-28,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,1
+2024-02-28,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,2
+2024-02-29,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,9
+2024-02-29,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,8
+2024-03-01,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,4
+2024-03-01,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,5
+2024-03-01,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,9
+2024-03-01,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,6
+2024-03-01,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,7
+2024-03-02,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,8
+2024-03-02,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,2
+2024-03-02,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,3
+2024-03-02,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,8
+2024-03-03,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,8
+2024-03-03,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,3
+2024-03-03,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,5
+2024-03-03,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,3
+2024-03-03,Controle Remoto LG,LG,AKB75095307,R$ 79.99,7
+2024-03-04,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,2
+2024-03-05,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,1
+2024-03-05,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,4
+2024-03-05,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,3
+2024-03-06,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,6
+2024-03-06,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,1
+2024-03-07,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,2
+2024-03-07,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,4
+2024-03-07,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,2
+2024-03-07,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,8
+2024-03-08,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,4
+2024-03-08,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,8
+2024-03-08,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,4
+2024-03-08,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,4
+2024-03-08,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,5
+2024-03-08,Controle Remoto LG,LG,AKB75095307,R$ 79.99,8
+2024-03-09,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,5
+2024-03-10,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,6
+2024-03-10,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,7
+2024-03-10,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,6
+2024-03-10,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,3
+2024-03-10,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,6
+2024-03-10,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,1
+2024-03-11,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,6
+2024-03-11,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,7
+2024-03-12,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,2
+2024-03-12,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,6
+2024-03-13,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,10
+2024-03-13,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,2
+2024-03-13,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,5
+2024-03-13,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,4
+2024-03-13,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,4
+2024-03-14,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,4
+2024-03-14,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,5
+2024-03-14,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,5
+2024-03-15,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,10
+2024-03-15,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,2
+2024-03-15,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,1
+2024-03-15,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,9
+2024-03-15,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,8
+2024-03-15,Controle Remoto LG,LG,AKB75095307,R$ 79.99,6
+2024-03-16,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,9
+2024-03-16,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,6
+2024-03-16,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,6
+2024-03-17,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,2
+2024-03-17,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,5
+2024-03-17,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,8
+2024-03-17,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,3
+2024-03-17,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,6
+2024-03-18,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,8
+2024-03-18,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,6
+2024-03-18,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,5
+2024-03-18,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,10
+2024-03-19,Controle Remoto LG,LG,AKB75095307,R$ 79.99,6
+2024-03-19,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,2
+2024-03-19,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,7
+2024-03-20,Controle Remoto LG,LG,AKB75095307,R$ 79.99,10
+2024-03-20,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,9
+2024-03-20,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,6
+2024-03-20,Controle Remoto LG,LG,AKB75095307,R$ 79.99,3
+2024-03-21,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,3
+2024-03-21,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,4
+2024-03-21,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,9
+2024-03-22,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,8
+2024-03-22,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,8
+2024-03-23,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,6
+2024-03-23,Controle Remoto LG,LG,AKB75095307,R$ 79.99,7
+2024-03-23,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,9
+2024-03-23,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,8
+2024-03-23,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,8
+2024-03-23,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,2
+2024-03-24,Controle Remoto LG,LG,AKB75095307,R$ 79.99,9
+2024-03-24,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,3
+2024-03-24,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,4
+2024-03-24,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,10
+2024-03-24,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,6
+2024-03-25,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,9
+2024-03-25,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,3
+2024-03-25,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,8
+2024-03-25,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,4
+2024-03-26,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,5
+2024-03-26,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,2
+2024-03-26,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,5
+2024-03-26,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,5
+2024-03-26,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,10
+2024-03-27,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,1
+2024-03-27,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,3
+2024-03-27,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,7
+2024-03-27,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,5
+2024-03-27,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,10
+2024-03-27,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,4
+2024-03-28,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,1
+2024-03-28,Controle Remoto LG,LG,AKB75095307,R$ 79.99,3
+2024-03-28,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,9
+2024-03-28,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,6
+2024-03-28,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,1
+2024-03-28,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,4
+2024-03-29,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,3
+2024-03-29,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,4
+2024-03-29,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,1
+2024-03-29,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,8
+2024-03-29,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,6
+2024-03-30,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,4
+2024-03-30,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,6
+2024-03-30,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,6
+2024-03-30,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,10
+2024-03-31,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,3
+2024-04-01,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,8
+2024-04-01,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,3
+2024-04-02,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,7
+2024-04-02,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,8
+2024-04-02,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,7
+2024-04-02,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,6
+2024-04-02,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,6
+2024-04-02,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,8
+2024-04-03,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,8
+2024-04-03,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,4
+2024-04-04,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,9
+2024-04-04,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,1
+2024-04-04,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,7
+2024-04-05,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,7
+2024-04-05,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,6
+2024-04-06,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,10
+2024-04-07,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,1
+2024-04-07,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,9
+2024-04-07,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,1
+2024-04-07,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,8
+2024-04-07,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,9
+2024-04-08,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,1
+2024-04-08,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,3
+2024-04-08,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,6
+2024-04-08,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,1
+2024-04-08,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,2
+2024-04-08,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,7
+2024-04-09,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,9
+2024-04-09,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,9
+2024-04-09,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,7
+2024-04-09,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,2
+2024-04-10,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,5
+2024-04-10,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,7
+2024-04-10,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,8
+2024-04-10,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,4
+2024-04-11,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,2
+2024-04-11,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,6
+2024-04-11,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,1
+2024-04-11,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,6
+2024-04-11,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,3
+2024-04-11,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,1
+2024-04-12,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,9
+2024-04-12,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,1
+2024-04-13,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,9
+2024-04-13,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,5
+2024-04-13,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,4
+2024-04-13,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,7
+2024-04-13,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,5
+2024-04-13,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,6
+2024-04-14,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,9
+2024-04-14,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,2
+2024-04-14,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,7
+2024-04-14,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,6
+2024-04-14,Controle Remoto LG,LG,AKB75095307,R$ 79.99,9
+2024-04-15,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,6
+2024-04-15,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,10
+2024-04-15,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,5
+2024-04-15,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,7
+2024-04-15,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,2
+2024-04-16,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,6
+2024-04-16,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,2
+2024-04-16,Controle Remoto LG,LG,AKB75095307,R$ 79.99,5
+2024-04-16,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,1
+2024-04-16,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,9
+2024-04-17,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,9
+2024-04-17,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,3
+2024-04-17,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,8
+2024-04-17,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,1
+2024-04-17,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,3
+2024-04-18,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,8
+2024-04-18,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,8
+2024-04-19,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,5
+2024-04-19,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,2
+2024-04-19,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,5
+2024-04-19,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,9
+2024-04-19,Controle Remoto LG,LG,AKB75095307,R$ 79.99,6
+2024-04-20,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,7
+2024-04-21,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,4
+2024-04-21,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,7
+2024-04-21,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,3
+2024-04-21,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,10
+2024-04-22,Controle Remoto LG,LG,AKB75095307,R$ 79.99,3
+2024-04-22,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,7
+2024-04-22,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,10
+2024-04-22,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,7
+2024-04-22,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,2
+2024-04-22,Controle Remoto LG,LG,AKB75095307,R$ 79.99,5
+2024-04-23,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,10
+2024-04-23,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,2
+2024-04-23,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,9
+2024-04-23,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,3
+2024-04-24,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,10
+2024-04-25,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,2
+2024-04-25,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,3
+2024-04-25,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,3
+2024-04-25,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,9
+2024-04-25,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,3
+2024-04-26,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,1
+2024-04-27,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,9
+2024-04-27,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,4
+2024-04-27,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,8
+2024-04-28,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,4
+2024-04-28,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,7
+2024-04-28,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,9
+2024-04-28,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,8
+2024-04-29,Controle Remoto LG,LG,AKB75095307,R$ 79.99,7
+2024-04-29,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,10
+2024-04-29,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,10
+2024-04-29,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,7
+2024-04-29,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,8
+2024-04-30,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,10
+2024-04-30,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,2
+2024-04-30,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,6
+2024-04-30,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,10
+2024-04-30,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,3
+2024-05-01,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,6
+2024-05-01,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,10
+2024-05-02,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,1
+2024-05-02,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,5
+2024-05-02,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,4
+2024-05-03,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,7
+2024-05-03,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,8
+2024-05-03,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,4
+2024-05-03,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,10
+2024-05-03,Controle Remoto LG,LG,AKB75095307,R$ 79.99,9
+2024-05-03,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,2
+2024-05-04,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,6
+2024-05-04,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,7
+2024-05-04,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,2
+2024-05-04,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,10
+2024-05-04,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,4
+2024-05-05,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,3
+2024-05-06,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,6
+2024-05-06,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,2
+2024-05-06,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,5
+2024-05-06,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,4
+2024-05-06,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,7
+2024-05-07,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,10
+2024-05-07,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,6
+2024-05-08,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,2
+2024-05-08,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,7
+2024-05-08,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,10
+2024-05-08,Controle Remoto LG,LG,AKB75095307,R$ 79.99,4
+2024-05-08,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,3
+2024-05-09,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,9
+2024-05-10,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,8
+2024-05-11,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,7
+2024-05-11,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,3
+2024-05-11,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,3
+2024-05-11,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,9
+2024-05-11,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,7
+2024-05-11,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,9
+2024-05-12,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,1
+2024-05-12,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,10
+2024-05-13,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,9
+2024-05-13,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,5
+2024-05-13,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,10
+2024-05-14,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,10
+2024-05-14,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,8
+2024-05-14,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,10
+2024-05-15,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,1
+2024-05-15,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,6
+2024-05-15,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,10
+2024-05-15,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,3
+2024-05-16,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,9
+2024-05-16,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,7
+2024-05-16,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,5
+2024-05-16,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,9
+2024-05-17,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,3
+2024-05-17,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,9
+2024-05-17,Controle Remoto LG,LG,AKB75095307,R$ 79.99,2
+2024-05-17,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,10
+2024-05-17,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,1
+2024-05-18,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,4
+2024-05-19,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,3
+2024-05-20,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,5
+2024-05-20,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,4
+2024-05-20,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,2
+2024-05-21,Controle Remoto LG,LG,AKB75095307,R$ 79.99,5
+2024-05-21,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,1
+2024-05-21,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,8
+2024-05-21,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,8
+2024-05-22,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,10
+2024-05-23,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,8
+2024-05-24,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,6
+2024-05-24,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,10
+2024-05-24,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,6
+2024-05-25,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,9
+2024-05-25,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,8
+2024-05-25,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,9
+2024-05-25,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,9
+2024-05-25,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,3
+2024-05-25,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,6
+2024-05-26,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,10
+2024-05-26,Controle Remoto LG,LG,AKB75095307,R$ 79.99,2
+2024-05-26,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,3
+2024-05-27,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,2
+2024-05-28,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,6
+2024-05-28,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,6
+2024-05-28,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,1
+2024-05-28,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,4
+2024-05-28,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,7
+2024-05-28,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,4
+2024-05-29,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,1
+2024-05-29,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,8
+2024-05-29,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,8
+2024-05-29,Controle Remoto LG,LG,AKB75095307,R$ 79.99,2
+2024-05-29,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,1
+2024-05-29,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,5
+2024-05-30,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,8
+2024-05-30,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,4
+2024-05-30,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,3
+2024-05-30,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,3
+2024-05-31,Controle Remoto LG,LG,AKB75095307,R$ 79.99,7
+2024-05-31,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,8
+2024-06-01,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,3
+2024-06-01,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,3
+2024-06-02,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,9
+2024-06-02,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,1
+2024-06-03,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,5
+2024-06-03,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,6
+2024-06-03,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,7
+2024-06-04,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,7
+2024-06-04,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,9
+2024-06-04,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,5
+2024-06-04,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,7
+2024-06-05,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,2
+2024-06-05,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,4
+2024-06-05,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,10
+2024-06-05,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,7
+2024-06-05,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,1
+2024-06-06,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,7
+2024-06-06,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,7
+2024-06-07,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,1
+2024-06-07,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,8
+2024-06-07,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,7
+2024-06-07,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,9
+2024-06-08,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,10
+2024-06-08,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,1
+2024-06-08,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,2
+2024-06-08,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,1
+2024-06-09,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,3
+2024-06-09,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,9
+2024-06-09,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,5
+2024-06-09,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,7
+2024-06-09,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,10
+2024-06-10,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,1
+2024-06-11,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,7
+2024-06-12,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,9
+2024-06-12,Controle Remoto LG,LG,AKB75095307,R$ 79.99,5
+2024-06-13,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,9
+2024-06-13,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,6
+2024-06-13,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,8
+2024-06-14,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,6
+2024-06-14,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,4
+2024-06-14,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,9
+2024-06-14,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,4
+2024-06-14,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,6
+2024-06-15,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,8
+2024-06-15,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,8
+2024-06-16,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,9
+2024-06-16,Controle Remoto LG,LG,AKB75095307,R$ 79.99,4
+2024-06-16,Controle Remoto LG,LG,AKB75095307,R$ 79.99,5
+2024-06-16,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,1
+2024-06-16,Controle Remoto LG,LG,AKB75095307,R$ 79.99,6
+2024-06-17,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,7
+2024-06-17,Rádio MP3 para Carro,Kenwood,KDC-BT558U,R$ 449.99,9
+2024-06-17,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,7
+2024-06-17,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,10
+2024-06-17,Rádio MP3 para Carro,Pioneer,DEH-S6220BT,R$ 499.99,3
+2024-06-18,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,7
+2024-06-18,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,8
+2024-06-18,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,3
+2024-06-18,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,4
+2024-06-18,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,8
+2024-06-18,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,3
+2024-06-19,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,10
+2024-06-19,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,5
+2024-06-20,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,7
+2024-06-20,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,10
+2024-06-20,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,9
+2024-06-20,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,6
+2024-06-21,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,7
+2024-06-21,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,7
+2024-06-21,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,2
+2024-06-22,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,5
+2024-06-22,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,10
+2024-06-22,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,8
+2024-06-22,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,6
+2024-06-22,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,6
+2024-06-22,Fone de Ouvido Bluetooth,Jbl,Wave Flex TWS - Preto,R$ 249.89,7
+2024-06-23,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,5
+2024-06-23,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,8
+2024-06-23,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,8
+2024-06-24,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,4
+2024-06-24,Powerbank 10000mAh,Anker,PowerCore 10000,R$ 129.99,2
+2024-06-24,Controle Remoto LG,LG,AKB75095307,R$ 79.99,7
+2024-06-24,Fone de Ouvido Bluetooth,Lenovo,Lp40,R$ 97.99,1
+2024-06-24,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,5
+2024-06-25,Carregador Rápido Dual,Aukey,PA-Y10,R$ 44.99,5
+2024-06-25,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,1
+2024-06-26,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,1
+2024-06-26,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,1
+2024-06-27,Controle Remoto para TV Samsung,Samsung,BN59-01199F,R$ 77.59,6
+2024-06-28,Carregador USB-C 20W,Apple,20W USB-C Power Adapter,R$ 97.98,8
+2024-06-29,Controle Remoto Universal,Logitech,Logitech Harmony 350,R$ 119.19,4
+2024-06-29,Fone de Ouvido com Fio,Havit,H2016D,R$ 94.37,1
+2024-06-29,Powerbank 20000mAh,Xiaomi,Mi Power Bank 3,R$ 199.99,5
+2024-06-29,Controle Remoto LG,LG,AKB75095307,R$ 79.99,2
+2024-06-29,Fone de Ouvido com Fio,Jbl,Tune 500 Preto,R$ 149.98,4
+2024-06-29,Carregador Rápido 18W,Anker,PowerPort III Nano,R$ 39.99,10
+2024-06-30,Controle Remoto LG,LG,AKB75095307,R$ 79.99,5
